@@ -1,0 +1,10 @@
+name: 'Wish list/gift registry'
+description: 'Allows users to create public shopping or wish lists.'
+core: 8.x
+type: module
+package: 'Ubercart - extra'
+dependencies:
+  - uc_cart
+  - uc_store
+  - uc_order
+  - uc_order
